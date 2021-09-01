@@ -1,6 +1,6 @@
 ### Who am I, you ask?
 
-I'm just a freelance developer, into pushing all my hardware to the limits and make my devices last as long as possible while still having fun. Avid jailbreaker of many devices, I work mostly on iOS tweaks and scripts with Objective-C, but know my stuff when it comes to Minecraft and Java programming, as well as the standard C and C++ implementations for normal computers and PlayStation 3 development.
+I'm just a freelance developer, into pushing all my hardware to the limits and make my devices last as long as possible while still having fun. Avid jailbreaker of many devices, I work mostly on iOS stuff with Objective-C, but know my stuff when it comes to Minecraft and Java programming, as well as the standard C and C++ implementations for normal computers and PlayStation 3 development.
 
 I'm one of the developers for PojavLauncher, quick to set up and help with Hackintoshes, and love to jailbreak everything I have to really own my devices.
 
