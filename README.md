@@ -7,6 +7,7 @@ I'm one of the developers for PojavLauncher, quick to set up and help with Hacki
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=crystall1nedev&count_private=true&theme=dark&show_icons=true&border_radius=10&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- i'm sorry i had to
+                           NO COMMITS?
     ░░░▒▒▒▒░▒░░░░░░░░▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▒░░░░░░░░░
     ░░▒▒▒▒░░░░░░░░░░░░▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒
    ░▒▒▒░░░░░░░░░░░░░░░▒▒░░░░░░░░░░░░░░░░░▒░▒▒░░░░░░░░░░░░░░░░░░░░▒▒░░░░░░░▒▒
