@@ -4,7 +4,7 @@ I'm just a freelance developer, into pushing all my hardware to the limits and m
 
 I'm one of the developers for PojavLauncher, quick to set up and help with Hackintoshes, and love to jailbreak everything I have to really own my devices.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=doregon&count_private=true&theme=dark&show_icons=true&border_radius=10&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=crystall1nedev&count_private=true&theme=dark&show_icons=true&border_radius=10&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- i'm sorry i had to
     ░░░▒▒▒▒░▒░░░░░░░░▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▒░░░░░░░░░
