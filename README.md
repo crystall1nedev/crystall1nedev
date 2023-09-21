@@ -1,43 +1,9 @@
-### Who am I, you ask?
+# Don't let my death end your life.
 
-I'm just a freelance developer, into pushing all my hardware to the limits and make my devices last as long as possible while still having fun. Avid jailbreaker of many devices, I work mostly on iOS stuff with Objective-C, but know some when it comes to Minecraft and Java programming, as well as the standard C and C++ implementations for normal computers and PlayStation 3 development.
+When I heard those words come out of my friend's mouth, minutes before she passed, I didn't know what they meant. Now I do.
 
-I'm one of the developers for PojavLauncher, quick to set up and help with Hackintoshes, and love to jailbreak everything I have to really own my devices.
+My name's **Eva Isabella Luna**, and I'm a **developer**, like many of you. I'm into all of the Apple scene, seeing how far I can push my devices and even being beyond their limits when I can. You can usually find me listening to some alternative rock music and working on whatever my autistic and ADHD mind decides to work on.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=crystall1nedev&count_private=true&theme=dark&show_icons=true&border_radius=10&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+You can usually find me in my Discord server at https://discord.crystall1ne.dev. 
 
-<!-- i'm sorry i had to
-                           NO COMMITS?
-    ░░░▒▒▒▒░▒░░░░░░░░▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▒░░░░░░░░░
-    ░░▒▒▒▒░░░░░░░░░░░░▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒
-   ░▒▒▒░░░░░░░░░░░░░░░▒▒░░░░░░░░░░░░░░░░░▒░▒▒░░░░░░░░░░░░░░░░░░░░▒▒░░░░░░░▒▒
-   ░░░░░░░░░░░░░░░░░░░░▒▒▒░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒░░░░░░░░░░░░░▒▒▒▒░░░░░░▒▒░
-  ░░░░░░░░░░░░░░░░░░░░░▒░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒░░░░░▒▒▒▒▒▒▒▒▒░░░░░▒▒░
-  ░░░░░░░░░░     ░░░░░░ ░▒░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░▒▒░
-              ░░░░░░░░░░░ ░░░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░▒▒░
-         ░░░░░░░░░░░░░░░░░░  ░░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░░░░▒▒░
-      ░░░░░░░░░░░░░░░░░░░░░░░░               ░░░░░░░░▒▒▒▒▒▒▒▒▒░░░░░░▒▒░
-      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░              ░░░░░░▒▒▒▒▒▒▒░░░░░░▒░
-        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ░░░░▒▒▒▒▒▒▒░░░░░░░
-           ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     ░░░▒▒▒▒▒░░░░░░░
-               ,,  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ░░▒▒▒▒░░░░░
-             ░░▒░     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▒▒░░░  ░░
-             ░▒▒'   ░  ░░░░░░░░'  .     `''░░░░░░░░░░░▒▒▒▒░░░░░░
-            ░░▒░       ░░░░░░░  ░▒░`        '░░░░░░░░▒▒▒░░░░░░░
-           ░▒░░░░░    ,░░░░░░' ░▒▒░   ░,     '░░░░░░▒▒▒░░░░░░
-           ░░░░░░░░░░░▒░░░░░░' ░▒▒    `   :░, ░░▒▒▒▒▒▒░░░░░
-           ░░░░░░░▒▒▒▒░░░░░░░░ '▒▒░ ':   ,░╜░░▒▒▒▒▒▒▒░░░
-            ░░░░░░▒▒▒░░░░░░░░░''¡┌"░'   ,░░░░▒▒▒▒▒▒▒░
-            ░░░░▒▒▒▒░░░░░░░░░░░░░¡░░░░░░░░░░▒▒▒▒▒▒░
-            ░░▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒░
-            ░▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ░
-           ░▒▒▒▒░░▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░▒▒░░ ░
-           ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░▒░ ░░░
-          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░▒▒▒  ░░
-        ░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░▒▒▒
-       ░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░▒▒▒░
-        ░░░▒▒▒▒▒▒▒▒▒░░▒▒▒▒▒▒▒▒░░░░░░░░░▒▒▒░
-         ░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░▒▒▒░
-            ░░░░░░░░░░░░░░░░░▒▒▒░░░░░░▒▒░
-             ░░░░░░░░░░░░▒▒▒▒░░░░░░░░▒░
-             -->
+Engaged to @ThatStella7922 <3
