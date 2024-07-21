@@ -6,4 +6,4 @@ My name's **Eva Isabella Luna**, and I'm a **developer**, like many of you. I'm 
 
 You can usually find me in my Discord server at https://discord.crystall1ne.dev. 
 
-Engaged to @ThatStella7922 <3
+Engaged to (and owned by) @ThatStella7922 <3
