@@ -1,6 +1,7 @@
 # Don't let my death end your life.
 
-NOTICE: All of my personal projects and development work has [found a new home](https://enclave.crystall1ne.dev) due to the continued enshittification of GitHub as a platform under Microsoft's guidance.
+## Important notice
+All of my personal project and development work has [found a new home](https://enclave.crystall1ne.dev) due to the continued enshittification of GitHub as a platform under Microsoft's guidance.
 
 When I heard those words come out of my friend's mouth, minutes before she passed, I didn't know what they meant. Now I do.
 
